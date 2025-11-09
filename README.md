@@ -81,3 +81,5 @@ It helps identify **sales trends, top-performing categories, customer demographi
 
 This dashboard highlights how **Excel can be used for real-world retail analysis**, combining raw data with visuals and interactivity.  
 It showcases **data cleaning, visualization, and business insight skills**, ideal for portfolio or data analytics demonstration.  
+
+⭐ If you found this project insightful, consider giving it a star on GitHub! 🌟
