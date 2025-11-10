@@ -2,7 +2,7 @@
 
 **Empowering Data-Driven Decisions for Fashion Retail**
 
->  *“D’Attire” is a name inspired by my name, Dipti — combining “D” and “Attire” to represent style, creativity, and individuality.*  
+>  *“D’Attire” is a name inspired by my name, Dipti - combining “D” and “Attire” to represent style, creativity, and individuality.*  
 > *(This is a hypothetical brand created for data analysis and dashboard visualization purposes.)*  
 
 ---
